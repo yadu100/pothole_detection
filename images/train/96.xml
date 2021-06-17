@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>96.jpg</filename>
+	<path>D:\Project\images\train\96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>725</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potholes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>217</ymin>
+			<xmax>654</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
